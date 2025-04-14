@@ -1,4 +1,4 @@
-Bulding an E-Commerce Site for a Eco-friendly fashion brand.
+Building an E-Commerce Site for a Eco-friendly fashion brand
 
 Live demo: https://ecommerce-site-nhxr.onrender.com
 
