@@ -1,6 +1,4 @@
-Building an E-Commerce Site for a Eco-friendly fashion brand
-
-Live demo: https://ecommerce-site-nhxr.onrender.com
+Building an E-Commerce Site for a Eco-friendly fashion brand.
 
 Highlights:
 
@@ -22,6 +20,8 @@ Highlights:
 - 🛡️ Data Protection
 - 🚀Caching with Redis
 - ⌛ And a lot more...
+
+Live demo: https://ecommerce-site-nhxr.onrender.com
 
 Homepage with "Featured" slideshow at the bottom:
 ![2025-04-01 (1)](https://github.com/user-attachments/assets/b48f0fef-025c-4f53-91fb-852dc7cffcf2)
